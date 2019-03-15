@@ -36,6 +36,7 @@ public class EmployeeDetails {
 		List<Employee> l1 = es.searchByName("Shobhit");
 		for(Employee emp:l1) {
 			System.out.println(emp);
+			System.out.println(emp);
 		}
 	}
 
